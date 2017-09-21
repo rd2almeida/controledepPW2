@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/09/2017, 21:33:56
+    Author     : Roberta
+*/
+
+*{ margin:0px;
+padding: 0px;
+}
+
+body { text-align: center;}
+
+#principal {
+width: 900px;
+height: 456px;
+background-color: #ffffff;
+border: solid #c0c0c0 1px;
+margin: 0 auto;
+}
+
+#titulo{
+    width: 100%
+    padding-top: 7px;
+    padding-bottom:10px;
+    background-color: #ffffff;
+}    
+    #titulo h3 {
+        text-align: center;
+        color:navy;
+        font-size:20px;
+        font-family:tahoma;
+    }
+    
+    #menuSuperior{
+        width: 100%
+        padding-top:7px;
+        padding-bottom:6px;
+        background-color: #ededed;
+        text-align:center;
+        
+    }
+    form {
+        text-align: left;
+        padding-left: 15px;
+    }
+
+    #campo{
+        background-color:#ededed;
+        color: navy;
+        font-family: tahoma;
+    }
+    #explica{
+        font-family: arial;
+        font-size: 9px;
+    } 
+    #botao{
+        width: 130px;
+        height: 30px;
+        color: navy;
+    }
+    #tabcampos tr td {
+        border: solid #000000 1px;
+        padding: 4px;
+    }
+    #tabcampos #botoes{
+        text-align: center;
+    }  
+    #tabmensagens{
+        width: 900px;
+        margin: 0 auto;
+    }
+    #tabmensagens tr td{
+        padding-top: 20px;
+        text-align: center;
+    }
+    #pgmensagens{
+        margin-top: 20px;
+    }
+    #tabmenu{
+        margin: 0 auto;
+        text-align: center;
+    }
